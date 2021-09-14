@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BlackBeltSubmission.unity
+  isLoaded: 1
+  isActive: 1
